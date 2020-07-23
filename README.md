@@ -1,0 +1,1 @@
+# sal-amazon-configuration
